@@ -1,0 +1,48 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.container{
+    max-width: 50%;
+    margin: auto;
+    /* padding-top: 10%; */
+    /* border: 6px solid black; */
+    position: relative;
+}
+.btn{
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+    font-weight: 800;
+    font-size: 24;
+    border-radius: 20px;
+    
+}
+.controlbtn{
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    padding: 4px 5px;
+
+}
+
+.play-btn{
+background-color: tomato;
+color: whitesmoke;
+}
+.pause-btn{
+
+}
+.minimize-btn{
+
+
+}
+
+
+video{
+    display: block;
+    width: 100%;
+}
