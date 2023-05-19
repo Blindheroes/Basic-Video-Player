@@ -9,7 +9,7 @@
     max-width: 50%;
     margin: auto;
     /* padding-top: 10%; */
-    /* border: 6px solid black; */
+
     position: relative;
 }
 .btn{
@@ -30,16 +30,10 @@
 }
 
 .play-btn{
-background-color: tomato;
-color: whitesmoke;
+    background-color: tomato;
+    color: whitesmoke;
 }
-.pause-btn{
 
-}
-.minimize-btn{
-
-
-}
 
 
 video{
